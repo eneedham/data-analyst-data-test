@@ -27,14 +27,23 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 > **(d)** Perform two of the following in order to predict mpg_binary:
 
 >> **LDA** (Linear discriminant analysis)
+
 >> **QDA** (Quadratic discriminant analysis)
+
 >> **Logistic regression**
+
 >> **KNN** (K-nearest neighbors)
+
 >> **Decision Tree**
+
 >> **Random Forests**
+
 >> **Gradient Boosting**
+
 >> **LASSO** (Least Absolute Shrinkage and Selection Operator)
+
 >> **Elastic Net Method**
+
 >> **Ridge regression analysis**
 
 > For each of the two you select: **What is the test error(s) of the model obtained? Do you have any other observations?**
