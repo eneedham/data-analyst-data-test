@@ -30,4 +30,4 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 
 > **(f)** Perform logistic regression on the training data in order to predict mpg_binary using using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
 
-> **(g)** Perform KNN (K-earest neighbors) on the training data, with several values of K, in order to predict mpg_binary. Use only the variables that seemed most associated with mpg_binary in (b). **What test errors do you obtain? Which value of K seems to perform the best on this data set?**
+> **(g)** Perform KNN (K-nearest neighbors) on the training data, with several values of K, in order to predict mpg_binary. Use only the variables that seemed most associated with mpg_binary in (b). **What test errors do you obtain? Which value of K seems to perform the best on this data set?**
