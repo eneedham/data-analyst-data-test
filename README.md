@@ -1,5 +1,5 @@
 # Junior Data Analyst Data Test
-This is the data test for the Junior Data Analyst position at Azavea. Please complete the questions below and submit your responses by XXXX date. The first question is conceptual and a **written response** is expected. The second question and it's several parts are applied. A submission of the **code** used to solve the problems, the **answers**, along with any **plots or graphics** generated are expected as responses. 
+This is the data test for the Junior Data Analyst position at Azavea. Please complete the questions below and submit your responses in the next week. The first question is conceptual and a **written response** is expected. The second question and it's several parts are applied. A submission of the **code** used to solve the problems, the **answers**, along with any **plots or graphics** generated are expected as responses. 
 
 ***
 
@@ -24,10 +24,18 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 
 > **(c)** Split the data into a training set and a test set.
 
-> **(d)** Perform LDA (Linear discriminant analysis) on the training data in order to predict mpg_binary using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
+> **(d)** Perform two of the following in order to predict mpg_binary:
+
+>> **LDA**
+
+
+Perform LDA (Linear discriminant analysis) on the training data in order to predict mpg_binary using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
       
 > **(e)** Perform QDA (Quadratic discriminant analysis) on the training data in order to predict mpg_binary using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
 
 > **(f)** Perform logistic regression on the training data in order to predict mpg_binary using using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
 
 > **(g)** Perform KNN (K-nearest neighbors) on the training data, with several values of K, in order to predict mpg_binary. Use only the variables that seemed most associated with mpg_binary in (b). **What test errors do you obtain? Which value of K seems to perform the best on this data set?**
+
+
+
