@@ -5,7 +5,7 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 
 ### 1) Conceptual Question
 
-#### This first question is conceptual and written responses are expected. For each item below, indicate whether the appropriate method would be classification or regression, and whether we are most interested in inference or prediction. Also, indidate what n and p are for each section.  
+#### This first question is conceptual and written responses are expected. For each item below, indicate whether the appropriate method would be classification or regression, and whether we are most interested in inference or prediction. Please include a written sentence or two explaining why you made this choice. Also, indidate what n and p are for each section.
 
 > **(a)** A dataset contains data for 350 manufacturing companies in Europe. The following variables are included in the data for each company: industry, number of employees, salary of the CEO, and total profit. **We are interested in learning which variables impact the CEO's salary.** 
 
