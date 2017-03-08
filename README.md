@@ -26,16 +26,15 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 
 > **(d)** Perform two of the following in order to predict mpg_binary:
 
->> **LDA**
+>> **LDA** (Linear discriminant analysis)
+>> **QDA** (Quadratic discriminant analysis)
+>> **Logistic regression**
+>> **KNN** (K-nearest neighbors)
+>> **Decision Tree**
+>> **Random Forests**
+>> **Gradient Boosting**
+>> **LASSO** (Least Absolute Shrinkage and Selection Operator)
+>> **Elastic Net Method**
+>> **Ridge regression analysis**
 
-
-Perform LDA (Linear discriminant analysis) on the training data in order to predict mpg_binary using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
-      
-> **(e)** Perform QDA (Quadratic discriminant analysis) on the training data in order to predict mpg_binary using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
-
-> **(f)** Perform logistic regression on the training data in order to predict mpg_binary using using the variables that seemed most associated from part (b). **What is the test error of the model obtained?**
-
-> **(g)** Perform KNN (K-nearest neighbors) on the training data, with several values of K, in order to predict mpg_binary. Use only the variables that seemed most associated with mpg_binary in (b). **What test errors do you obtain? Which value of K seems to perform the best on this data set?**
-
-
-
+> For each of the two you select: **What is the test error(s) of the model obtained? Do you have any other observations?**
