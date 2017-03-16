@@ -5,7 +5,7 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 
 ### 1) Conceptual Question
 
-#### This first question is conceptual and written responses are expected. For each item below, indicate whether the appropriate method would be classification or regression, and whether we are most interested in inference or prediction. Please include a written sentence or two explaining why you made this choice. Also, indidate what n and p are for each section.
+#### This first question is conceptual and written responses are expected. For each item below, indicate whether the appropriate method would be classification or regression, and whether we are most interested in inference or prediction. Please include a written sentence or two explaining why you made this choice. Also, indidate what n and p (predictors) are for each section.
 
 > **(a)** A dataset contains data for 350 manufacturing companies in Europe. The following variables are included in the data for each company: industry, number of employees, salary of the CEO, and total profit. **We are interested in learning which variables impact the CEO's salary.** 
 
@@ -18,7 +18,7 @@ This is the data test for the Junior Data Analyst position at Azavea. Please com
 
 #### For this second applied question you will develop several predictive models. These should be written in R or Python and the code should be submitted. The models will predict whether a car will get high or low gas mileage. The question will be based on the Cars_mileage data set that is a part of this repo.
 
-> **(a)** Create a binary variable that represents whether the car's mpg is above or below its median. Above the median should be represented as 1. Name this variable **mpg_binary**. 
+> **(a)** Create a binary variable that represents whether the car's mpg is above or below the dataset's median. Above the median should be represented as 1. Name this variable **mpg_binary**. 
 
 > **(b)** Which of the other variables seem most likely to be useful in predicting whether a car's mpg is above or below its median? **Describe your findings and submit visual representations of the relationship between mpg_binary and other variables.**
 
